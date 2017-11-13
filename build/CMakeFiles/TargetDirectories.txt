@@ -1,0 +1,3 @@
+/home/fuhz/Git/my_http/build/CMakeFiles/edit_cache.dir
+/home/fuhz/Git/my_http/build/CMakeFiles/rebuild_cache.dir
+/home/fuhz/Git/my_http/build/CMakeFiles/HTTP.bin.dir
